@@ -2592,3 +2592,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.05-01.29.11:681][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2023.12.05-01.29.11:703][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2023.12.05-01.29.11:725][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.05-01.39.00:444][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.05-01.39.00:448][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER_Auto1
+[2023.12.05-01.39.00:448][845]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/A7GPT109Y6ZTTJD4A7TXER_Auto14DA54C9B46F105A2736FFE9543550518.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER_Auto1.uasset'
+[2023.12.05-01.39.00:449][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KR/ABHNJ6E7N8U9O6SO446LV5_Auto1
+[2023.12.05-01.39.00:449][845]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/ABHNJ6E7N8U9O6SO446LV5_Auto16A1EA6924203AAD156E7EBB72E0BB8EC.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KR/ABHNJ6E7N8U9O6SO446LV5_Auto1.uasset'
+[2023.12.05-01.39.00:450][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2023.12.05-01.39.00:450][845]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.12.05-01.39.00:451][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.05-01.39.00:451][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-01.39.00:497][845]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2023.12.05-01.39.00:511][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.05-01.39.00:511][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.05-01.39.00:520][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2023.12.05-01.39.00:520][845]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/BP_ThirdPersonCharacter_Auto1B42913B143B57F8FF7D7B487AB5F6B47.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2023.12.05-01.39.00:520][845]LogFileHelpers: Auto-saving content packages took 0.070
+[2023.12.05-01.41.49:674][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.05-01.41.49:678][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-01.41.49:736][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.05-01.41.49:758][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.05-01.41.49:780][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.05-01.41.49:788][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2023.12.05-01.41.49:788][459]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/A7GPT109Y6ZTTJD4A7TXER5A88747646374155EA26F39660DC1C32.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2023.12.05-01.41.49:789][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KR/ABHNJ6E7N8U9O6SO446LV5
+[2023.12.05-01.41.49:789][459]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/ABHNJ6E7N8U9O6SO446LV58FAB8F954FDAABA6D259E1A5BD1A8131.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KR/ABHNJ6E7N8U9O6SO446LV5.uasset'
+[2023.12.05-01.41.49:798][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.05-01.41.49:799][459]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/BP_ThirdPersonCharacter1949C6164B54F92AFD68BBBCADF1EDE3.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.05-01.41.49:806][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 531 ms)
+[2023.12.05-01.41.49:813][459]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-01.41.49:813][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.05-01.41.49:813][459]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.12.05-01.41.49:813][459]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_UAID_E88088498A50A6C201_1775135241
