@@ -1290,3 +1290,549 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.05-19.06.22:161][202]LogHttp: Warning: 000007C6BEC57800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2023.12.05-19.06.22:161][202]LogHttp: Warning: 000007C6BEC57800: libcurl info message cache 1 (Closing connection 3)
 [2023.12.05-19.06.22:161][202]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD469D085-4412-CDCF-F63A-8988406C9EF7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=b6678fde4bcc709ed1e5bea98839a4dd%7Ce1ec7a8aa83046aab80a81890b3d73e1%7C375f7dca-e56d-49b7-a75f-04282ef36db7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.05-19.09.04:466][ 54]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.05-19.09.05:665][ 90]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.05-19.09.06:328][110]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.05-19.09.06:760][123]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.05-19.09.06:836][123]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.05-19.09.08:292][168]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.08:292][168]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.05-19.09.09:369][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.05-19.09.11:411][245]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.05-19.09.11:845][258]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.05-19.09.23:184][592]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.23:184][592]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.05-19.09.23:676][598]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.23:676][598]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.05-19.09.24:098][605]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.24:098][605]LogEditorTransaction: Undo Move Elements
+[2023.12.05-19.09.24:502][611]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.24:502][611]LogEditorTransaction: Undo Move Elements
+[2023.12.05-19.09.24:834][616]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.24:834][616]LogEditorTransaction: Undo Scale Elements
+[2023.12.05-19.09.25:036][619]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.25:036][619]LogEditorTransaction: Undo Scale Elements
+[2023.12.05-19.09.25:136][619]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.12.05-19.09.25:136][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0' 
+[2023.12.05-19.09.25:137][619]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.12.05-19.09.25:137][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447.StaticMeshComponent0' 
+[2023.12.05-19.09.25:146][619]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.25:146][619]LogEditorTransaction: Undo Scale Elements
+[2023.12.05-19.09.25:308][623]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.25:308][623]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.05-19.09.36:333][921]Cmd: TRANSACTION UNDO
+[2023.12.05-19.09.36:334][921]LogEditorTransaction: Undo Scale Elements
+[2023.12.05-19.11.53:343][991]LogViewport: Scene viewport resized to 1552x678, mode Windowed.
+[2023.12.05-19.11.53:435][993]LogViewport: Scene viewport resized to 1552x606, mode Windowed.
+[2023.12.05-19.11.53:500][995]LogViewport: Scene viewport resized to 1552x576, mode Windowed.
+[2023.12.05-19.11.53:569][997]LogViewport: Scene viewport resized to 1552x557, mode Windowed.
+[2023.12.05-19.11.53:627][998]LogViewport: Scene viewport resized to 1552x552, mode Windowed.
+[2023.12.05-19.11.53:672][  0]LogViewport: Scene viewport resized to 1552x548, mode Windowed.
+[2023.12.05-19.11.53:736][  2]LogViewport: Scene viewport resized to 1552x542, mode Windowed.
+[2023.12.05-19.11.53:809][  4]LogViewport: Scene viewport resized to 1552x530, mode Windowed.
+[2023.12.05-19.11.53:872][  6]LogViewport: Scene viewport resized to 1552x517, mode Windowed.
+[2023.12.05-19.11.53:929][  7]LogViewport: Scene viewport resized to 1552x506, mode Windowed.
+[2023.12.05-19.11.53:964][  8]LogViewport: Scene viewport resized to 1552x500, mode Windowed.
+[2023.12.05-19.11.54:002][  9]LogViewport: Scene viewport resized to 1552x496, mode Windowed.
+[2023.12.05-19.11.54:035][ 10]LogViewport: Scene viewport resized to 1552x491, mode Windowed.
+[2023.12.05-19.11.54:082][ 12]LogViewport: Scene viewport resized to 1552x478, mode Windowed.
+[2023.12.05-19.11.54:143][ 14]LogViewport: Scene viewport resized to 1552x449, mode Windowed.
+[2023.12.05-19.11.54:209][ 16]LogViewport: Scene viewport resized to 1552x432, mode Windowed.
+[2023.12.05-19.11.54:320][ 20]LogViewport: Scene viewport resized to 1552x413, mode Windowed.
+[2023.12.05-19.11.54:415][ 22]LogViewport: Scene viewport resized to 1552x379, mode Windowed.
+[2023.12.05-19.11.54:478][ 24]LogViewport: Scene viewport resized to 1552x360, mode Windowed.
+[2023.12.05-19.11.54:545][ 26]LogViewport: Scene viewport resized to 1552x343, mode Windowed.
+[2023.12.05-19.11.54:611][ 28]LogViewport: Scene viewport resized to 1552x330, mode Windowed.
+[2023.12.05-19.12.23:698][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.05-19.12.23:715][459]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.013116 seconds
+[2023.12.05-19.12.23:716][459]LogSerialization: UsePackageTrailer: 'true'
+[2023.12.05-19.12.23:718][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6_Auto1
+[2023.12.05-19.12.23:718][459]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/STZOXX86KQQ3HHM5ZANUQ6_Auto123EF55B5495A541AED35A7A19CD3FA11.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6_Auto1.uasset'
+[2023.12.05-19.12.23:719][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2023.12.05-19.12.23:719][459]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: Total job queries 341, among them cache hits 142 (41.64%)
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: Tracking 199 distinct input hashes that result in 152 distinct outputs (76.38%)
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: RAM used: 4.56 MiB of 1.60 GiB budget. Usage: 0.28%
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.05-19.13.40:746][843]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.13.42:768][897]LogViewport: Scene viewport resized to 1552x349, mode Windowed.
+[2023.12.05-19.13.42:864][899]LogViewport: Scene viewport resized to 1552x377, mode Windowed.
+[2023.12.05-19.13.42:934][901]LogViewport: Scene viewport resized to 1552x383, mode Windowed.
+[2023.12.05-19.13.42:999][903]LogViewport: Scene viewport resized to 1552x386, mode Windowed.
+[2023.12.05-19.13.43:070][905]LogViewport: Scene viewport resized to 1552x392, mode Windowed.
+[2023.12.05-19.13.43:247][911]LogViewport: Scene viewport resized to 1552x398, mode Windowed.
+[2023.12.05-19.13.43:325][912]LogViewport: Scene viewport resized to 1552x401, mode Windowed.
+[2023.12.05-19.13.43:373][914]LogViewport: Scene viewport resized to 1552x406, mode Windowed.
+[2023.12.05-19.13.43:442][916]LogViewport: Scene viewport resized to 1552x414, mode Windowed.
+[2023.12.05-19.13.43:503][918]LogViewport: Scene viewport resized to 1552x422, mode Windowed.
+[2023.12.05-19.13.43:573][920]LogViewport: Scene viewport resized to 1552x426, mode Windowed.
+[2023.12.05-19.13.43:637][922]LogViewport: Scene viewport resized to 1552x428, mode Windowed.
+[2023.12.05-19.13.43:696][923]LogViewport: Scene viewport resized to 1552x435, mode Windowed.
+[2023.12.05-19.13.43:732][924]LogViewport: Scene viewport resized to 1552x439, mode Windowed.
+[2023.12.05-19.13.43:780][926]LogViewport: Scene viewport resized to 1552x442, mode Windowed.
+[2023.12.05-19.13.43:842][928]LogViewport: Scene viewport resized to 1552x446, mode Windowed.
+[2023.12.05-19.13.43:906][930]LogViewport: Scene viewport resized to 1552x457, mode Windowed.
+[2023.12.05-19.13.43:975][932]LogViewport: Scene viewport resized to 1552x468, mode Windowed.
+[2023.12.05-19.13.44:082][936]LogViewport: Scene viewport resized to 1552x474, mode Windowed.
+[2023.12.05-19.13.45:737][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_07.SM_Beams_07
+[2023.12.05-19.13.45:737][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_07.SM_Beams_07
+[2023.12.05-19.13.45:738][976]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_07.SM_Beams_07 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.12.05-19.13.48:866][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_04.SM_Beams_04
+[2023.12.05-19.13.48:866][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_04.SM_Beams_04
+[2023.12.05-19.13.48:867][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_04.SM_Beams_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.12.05-19.13.50:958][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_03.SM_Beams_03
+[2023.12.05-19.13.50:958][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_03.SM_Beams_03
+[2023.12.05-19.13.50:959][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_03.SM_Beams_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2023.12.05-19.13.56:423][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02
+[2023.12.05-19.13.56:423][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02
+[2023.12.05-19.13.56:425][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2023.12.05-19.14.00:522][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02
+[2023.12.05-19.14.00:523][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02
+[2023.12.05-19.14.00:529][334]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Beams_02.SM_Beams_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1390488799
+[2023.12.05-19.14.26:222][104]Cmd: DUPLICATE
+[2023.12.05-19.14.26:222][104]Cmd: ACTOR DUPLICATE
+[2023.12.05-19.14.33:624][325]Cmd: DUPLICATE
+[2023.12.05-19.14.33:624][325]Cmd: ACTOR DUPLICATE
+[2023.12.05-19.15.22:127][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01
+[2023.12.05-19.15.22:127][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01
+[2023.12.05-19.15.22:128][669]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2023.12.05-19.15.25:737][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01
+[2023.12.05-19.15.25:737][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01
+[2023.12.05-19.15.25:741][777]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Cabinet_01.SM_Cabinet_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1475701802
+[2023.12.05-19.15.32:649][984]Cmd: DUPLICATE
+[2023.12.05-19.15.32:649][984]Cmd: ACTOR DUPLICATE
+[2023.12.05-19.15.53:470][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior
+[2023.12.05-19.15.53:470][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior
+[2023.12.05-19.15.53:471][568]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2023.12.05-19.15.56:270][652]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior
+[2023.12.05-19.15.56:270][652]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior
+[2023.12.05-19.15.56:273][652]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_DoorInterior.SM_DoorInterior as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1506234804
+[2023.12.05-19.16.08:044][  0]Cmd: TRANSACTION UNDO
+[2023.12.05-19.16.08:045][  0]LogEditorTransaction: Undo Rotate Elements
+[2023.12.05-19.16.43:870][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03
+[2023.12.05-19.16.43:870][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03
+[2023.12.05-19.16.43:871][ 16]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.12.05-19.16.46:145][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03
+[2023.12.05-19.16.46:146][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03
+[2023.12.05-19.16.46:149][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Shelf_03.SM_Shelf_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1556109805
+[2023.12.05-19.17.10:463][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.10:463][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.10:465][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2023.12.05-19.17.13:128][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.13:128][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.13:129][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9
+[2023.12.05-19.17.15:842][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.15:842][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.17.15:846][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1585805806
+[2023.12.05-19.17.30:544][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.17.30:544][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.17.30:545][332]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2023.12.05-19.17.31:459][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.17.31:459][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.17.31:462][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1601423807
+[2023.12.05-19.17.47:259][829]Cmd: DELETE
+[2023.12.05-19.17.47:259][829]Cmd: ACTOR DELETE
+[2023.12.05-19.17.47:269][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.17.47:300][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.05-19.17.47:302][829]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.12.05-19.17.48:968][880]Cmd: DELETE
+[2023.12.05-19.17.48:968][880]Cmd: ACTOR DELETE
+[2023.12.05-19.17.48:975][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.17.49:045][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.05-19.17.49:046][880]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2023.12.05-19.18.00:024][211]Cmd: DELETE
+[2023.12.05-19.18.00:024][211]Cmd: ACTOR DELETE
+[2023.12.05-19.18.00:032][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.18.00:056][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.05-19.18.00:057][211]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.12.05-19.18.22:585][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01
+[2023.12.05-19.18.22:585][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01
+[2023.12.05-19.18.22:586][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2023.12.05-19.18.23:757][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01
+[2023.12.05-19.18.23:758][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01
+[2023.12.05-19.18.23:765][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Stool01.SM_Stool01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1653721808
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Total job queries 361, among them cache hits 143 (39.61%)
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 166 distinct outputs (76.50%)
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: RAM used: 5.00 MiB of 1.60 GiB budget. Usage: 0.30%
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Job execution time: average 2.04 s, max 2.04 s
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Job life time (pending + execution): average 2.07 s, max 2.07
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.07 s
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Average processing rate: 0.48 jobs/sec
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Total thread time: 1.27 s
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Total thread preprocess time: 0.534 s
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Percentage time preprocessing: 42.06%
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Effective parallelization: 0.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.12.05-19.18.30:714][ 76]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.18.37:640][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_02.SM_Pot_02
+[2023.12.05-19.18.37:640][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_02.SM_Pot_02
+[2023.12.05-19.18.37:642][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_02.SM_Pot_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2023.12.05-19.18.40:220][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01
+[2023.12.05-19.18.40:220][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01
+[2023.12.05-19.18.40:221][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13
+[2023.12.05-19.18.42:252][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01
+[2023.12.05-19.18.42:252][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01
+[2023.12.05-19.18.42:256][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_SaucePan_Black_Pot_01.SM_SaucePan_Black_Pot_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1672215809
+[2023.12.05-19.18.43:662][381]Cmd: DELETE
+[2023.12.05-19.18.43:662][381]Cmd: ACTOR DELETE
+[2023.12.05-19.18.43:669][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.18.43:697][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.05-19.18.43:698][381]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.12.05-19.18.48:201][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02
+[2023.12.05-19.18.48:201][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02
+[2023.12.05-19.18.48:202][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14
+[2023.12.05-19.18.49:478][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02
+[2023.12.05-19.18.49:478][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02
+[2023.12.05-19.18.49:482][509]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowerPot_02.SM_FlowerPot_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1679442810
+[2023.12.05-19.18.59:527][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_BreakfastProps_Plate.SM_BreakfastProps_Plate
+[2023.12.05-19.18.59:527][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_BreakfastProps_Plate.SM_BreakfastProps_Plate
+[2023.12.05-19.18.59:528][768]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_BreakfastProps_Plate.SM_BreakfastProps_Plate as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15
+[2023.12.05-19.19.10:905][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_10.SM_Pot_10
+[2023.12.05-19.19.10:905][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_10.SM_Pot_10
+[2023.12.05-19.19.10:906][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_10.SM_Pot_10 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16
+[2023.12.05-19.19.14:420][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.14:420][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.14:421][114]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.12.05-19.19.19:513][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.19:513][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.19:514][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_18
+[2023.12.05-19.19.21:059][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.21:059][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07
+[2023.12.05-19.19.21:063][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_07.SM_Pot_07 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1711023811
+[2023.12.05-19.19.45:043][973]Cmd: DUPLICATE
+[2023.12.05-19.19.45:044][973]Cmd: ACTOR DUPLICATE
+[2023.12.05-19.20.00:431][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08
+[2023.12.05-19.20.00:431][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08
+[2023.12.05-19.20.00:433][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_19
+[2023.12.05-19.20.01:947][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08
+[2023.12.05-19.20.01:947][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08
+[2023.12.05-19.20.01:951][468]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_08.SM_Pot_08 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1751911814
+[2023.12.05-19.20.03:668][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09
+[2023.12.05-19.20.03:668][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09
+[2023.12.05-19.20.03:669][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20
+[2023.12.05-19.20.05:861][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09
+[2023.12.05-19.20.05:862][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09
+[2023.12.05-19.20.05:865][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Pot_09.SM_Pot_09 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1755825815
+[2023.12.05-19.20.17:813][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_03.SM_Plant_03
+[2023.12.05-19.20.17:813][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_03.SM_Plant_03
+[2023.12.05-19.20.17:814][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_03.SM_Plant_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_21
+[2023.12.05-19.20.28:849][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.20.28:849][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.20.28:850][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_22
+[2023.12.05-19.20.31:420][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.20.31:420][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.20.31:423][158]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1781384816
+[2023.12.05-19.21.22:303][972]Cmd: DELETE
+[2023.12.05-19.21.22:303][972]Cmd: ACTOR DELETE
+[2023.12.05-19.21.22:311][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.21.22:340][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.05-19.21.22:342][972]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.12.05-19.21.25:228][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.25:228][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.25:229][ 40]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_23
+[2023.12.05-19.21.32:669][245]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.32:910][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-19.21.32:910][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.05-19.21.33:428][245]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.12.05-19.21.33:484][245]LogSlate: Took 0.006214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.05-19.21.34:221][257]LogSlate: Window 'SM_FlowersPlant_02' being destroyed
+[2023.12.05-19.21.34:345][257]LogSlate: Window 'SM_FlowersPlant_02' being destroyed
+[2023.12.05-19.21.34:396][257]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-19.21.34:396][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-19.21.35:284][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.35:284][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.35:286][274]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_24
+[2023.12.05-19.21.40:418][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.40:418][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02
+[2023.12.05-19.21.40:422][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_02.SM_FlowersPlant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1850382817
+[2023.12.05-19.21.46:855][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_05.SM_FlowersPlant_05
+[2023.12.05-19.21.46:855][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_05.SM_FlowersPlant_05
+[2023.12.05-19.21.46:856][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_05.SM_FlowersPlant_05 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_25
+[2023.12.05-19.21.49:671][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04
+[2023.12.05-19.21.49:671][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04
+[2023.12.05-19.21.49:672][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2023.12.05-19.21.52:771][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04
+[2023.12.05-19.21.52:771][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04
+[2023.12.05-19.21.52:773][766]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_04.SM_FlowersPlant_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1862734818
+[2023.12.05-19.21.58:268][932]Cmd: DELETE
+[2023.12.05-19.21.58:268][932]Cmd: ACTOR DELETE
+[2023.12.05-19.21.58:276][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.21.58:311][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.05-19.21.58:313][932]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.12.05-19.21.59:795][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.21.59:795][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.21.59:796][970]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2023.12.05-19.22.02:660][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.02:661][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.02:667][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1872624819
+[2023.12.05-19.22.07:596][205]Cmd: DELETE
+[2023.12.05-19.22.07:596][205]Cmd: ACTOR DELETE
+[2023.12.05-19.22.07:605][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.22.07:630][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.05-19.22.07:631][205]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.12.05-19.22.12:858][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.12:858][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.12:859][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_28
+[2023.12.05-19.22.14:207][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.14:207][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03
+[2023.12.05-19.22.14:210][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_03.SM_FlowersPlant_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1884171820
+[2023.12.05-19.22.27:834][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_06.SM_FlowersPlant_06
+[2023.12.05-19.22.27:834][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_06.SM_FlowersPlant_06
+[2023.12.05-19.22.27:835][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_06.SM_FlowersPlant_06 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_29
+[2023.12.05-19.22.31:190][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_07.SM_FlowersPlant_07
+[2023.12.05-19.22.31:190][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_07.SM_FlowersPlant_07
+[2023.12.05-19.22.31:191][864]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FlowersPlant_07.SM_FlowersPlant_07 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_30
+[2023.12.05-19.22.34:693][934]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.34:693][934]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.34:694][934]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_31
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Total job queries 369, among them cache hits 143 (38.75%)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Tracking 225 distinct input hashes that result in 170 distinct outputs (75.56%)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: RAM used: 5.22 MiB of 1.60 GiB budget. Usage: 0.32%
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Shaders Compiled: 7
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Jobs assigned 8, completed 7 (87.50%)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Average time worker was idle: 80.69 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.04 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 2.45 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 2.47
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.41 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Average processing rate: 1.29 jobs/sec
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Total thread time: 6.589 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Total thread preprocess time: 1.447 s
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Percentage time preprocessing: 21.96%
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.80 sec, max 0.82 sec, min 0.78 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.66 sec, max 0.68 sec, min 0.63 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 29.92% of total time (compiled    3 times, average 0.66 sec, max 0.68 sec, min 0.63 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.49% of total time (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 24.31% of total time (compiled    2 times, average 0.80 sec, max 0.82 sec, min 0.78 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.28% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.12.05-19.22.35:673][972]LogShaderCompilers: Display: ================================================
+[2023.12.05-19.22.37:502][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.37:502][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.37:504][ 10]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_32
+[2023.12.05-19.22.39:280][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.39:280][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02
+[2023.12.05-19.22.39:283][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_02.SM_Plant_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1909243821
+[2023.12.05-19.23.20:690][278]Cmd: DELETE
+[2023.12.05-19.23.20:691][278]Cmd: ACTOR DELETE
+[2023.12.05-19.23.20:699][278]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.23.20:757][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.05-19.23.20:759][278]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.12.05-19.23.22:804][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.22:804][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.22:805][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
+[2023.12.05-19.23.25:951][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.25:951][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.25:952][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34
+[2023.12.05-19.23.29:021][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.29:021][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.29:025][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1958985822
+[2023.12.05-19.23.30:642][554]Cmd: DELETE
+[2023.12.05-19.23.30:642][554]Cmd: ACTOR DELETE
+[2023.12.05-19.23.30:649][554]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.23.30:678][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.12.05-19.23.30:679][554]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.12.05-19.23.43:418][935]Cmd: DELETE
+[2023.12.05-19.23.43:418][935]Cmd: ACTOR DELETE
+[2023.12.05-19.23.43:426][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.23.43:468][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.05-19.23.43:469][935]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.12.05-19.23.45:056][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.45:056][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.45:057][970]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
+[2023.12.05-19.23.48:582][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.48:582][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.48:582][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_36
+[2023.12.05-19.23.53:747][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.53:747][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01
+[2023.12.05-19.23.53:751][207]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01.SM_Plant_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1983711823
+[2023.12.05-19.23.57:804][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.23.57:805][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.23.57:806][319]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_37
+[2023.12.05-19.24.00:558][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.00:558][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.00:561][401]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1990522824
+[2023.12.05-19.24.07:880][622]Cmd: DELETE
+[2023.12.05-19.24.07:880][622]Cmd: ACTOR DELETE
+[2023.12.05-19.24.07:887][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.24.07:915][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.05-19.24.07:916][622]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.12.05-19.24.08:888][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.08:888][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.08:889][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_38
+[2023.12.05-19.24.11:138][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.11:138][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves
+[2023.12.05-19.24.11:141][712]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Plant_01_Leaves.SM_Plant_01_Leaves as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2001102825
+[2023.12.05-19.24.37:310][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant
+[2023.12.05-19.24.37:310][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant
+[2023.12.05-19.24.37:311][454]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_39
+[2023.12.05-19.24.39:396][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant
+[2023.12.05-19.24.39:396][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant
+[2023.12.05-19.24.39:400][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_FallingPlant.SM_FallingPlant as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2029360826
+[2023.12.05-19.25.28:089][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.25.28:089][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.25.28:089][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_40
+[2023.12.05-19.25.29:257][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.25.29:258][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03
+[2023.12.05-19.25.29:261][954]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_03.SM_Book_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2079221827
+[2023.12.05-19.25.39:247][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_04.SM_Book_04
+[2023.12.05-19.25.39:247][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_04.SM_Book_04
+[2023.12.05-19.25.39:249][242]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_04.SM_Book_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2089209828
+[2023.12.05-19.26.10:665][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.05-19.26.10:670][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6_Auto2
+[2023.12.05-19.26.10:670][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/STZOXX86KQQ3HHM5ZANUQ6_Auto27089D86C45EE26E8F37A1D96FAA00659.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6_Auto2.uasset'
+[2023.12.05-19.26.10:673][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E0/1XDIIHXKIGTGP6KJS4OL37_Auto2
+[2023.12.05-19.26.10:674][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/1XDIIHXKIGTGP6KJS4OL37_Auto27B10D5794E8B95A45F143FBDAF2DBB39.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E0/1XDIIHXKIGTGP6KJS4OL37_Auto2.uasset'
+[2023.12.05-19.26.10:677][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZC/VDTKHSH7B5RYH1FQRXGHUM_Auto2
+[2023.12.05-19.26.10:677][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/VDTKHSH7B5RYH1FQRXGHUM_Auto293669A754450558DD919D49EA064198B.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZC/VDTKHSH7B5RYH1FQRXGHUM_Auto2.uasset'
+[2023.12.05-19.26.10:680][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z5/HXND3FNI4LLX1NLEFIK9SO_Auto2
+[2023.12.05-19.26.10:680][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/HXND3FNI4LLX1NLEFIK9SO_Auto20A00365D4E893EF2771E6AAA4C03A5B6.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z5/HXND3FNI4LLX1NLEFIK9SO_Auto2.uasset'
+[2023.12.05-19.26.10:684][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7R/OE0T0Z44U3N45EK71BU5P2_Auto2
+[2023.12.05-19.26.10:684][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OE0T0Z44U3N45EK71BU5P2_Auto288686C614884F115BB4C4AB414A344FD.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7R/OE0T0Z44U3N45EK71BU5P2_Auto2.uasset'
+[2023.12.05-19.26.10:687][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/23/EBNIENHL5OFFUB6B79OYDM_Auto2
+[2023.12.05-19.26.10:687][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/EBNIENHL5OFFUB6B79OYDM_Auto29F3F3D114E206E1EAB89B9BC1EADA33B.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/23/EBNIENHL5OFFUB6B79OYDM_Auto2.uasset'
+[2023.12.05-19.26.10:691][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DQ/62UH4PN7GL9Q0YL9BIV9AT_Auto2
+[2023.12.05-19.26.10:691][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/62UH4PN7GL9Q0YL9BIV9AT_Auto23B7817714014499A7BF2ACA13B4F2771.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DQ/62UH4PN7GL9Q0YL9BIV9AT_Auto2.uasset'
+[2023.12.05-19.26.10:694][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/RUC5HUTQF28GMT6OSZSF9R_Auto2
+[2023.12.05-19.26.10:694][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/RUC5HUTQF28GMT6OSZSF9R_Auto200AFBB804AE25FB77FF0A99279CFB880.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/RUC5HUTQF28GMT6OSZSF9R_Auto2.uasset'
+[2023.12.05-19.26.10:697][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B1/A84FNKVYB4WQ3TDFNYRCJ1_Auto2
+[2023.12.05-19.26.10:697][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/A84FNKVYB4WQ3TDFNYRCJ1_Auto23DC2C95444152D273F5B37AD8E82FFFF.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B1/A84FNKVYB4WQ3TDFNYRCJ1_Auto2.uasset'
+[2023.12.05-19.26.10:700][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AA/LC97P4VHOAC7NLX9FCCYCA_Auto2
+[2023.12.05-19.26.10:700][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/LC97P4VHOAC7NLX9FCCYCA_Auto21B6E1FE94D5C44C8EF3B6B8629BBC81D.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AA/LC97P4VHOAC7NLX9FCCYCA_Auto2.uasset'
+[2023.12.05-19.26.10:703][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QC/956787IYEKH44U6JHHFC52_Auto2
+[2023.12.05-19.26.10:703][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/956787IYEKH44U6JHHFC52_Auto24966847A4070D3B566DEB7B3CE730A0D.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QC/956787IYEKH44U6JHHFC52_Auto2.uasset'
+[2023.12.05-19.26.10:706][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7I/5ZYB8UJXMKWQQT7AD4S1W7_Auto2
+[2023.12.05-19.26.10:706][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/5ZYB8UJXMKWQQT7AD4S1W7_Auto2C391B7B84BAB7F441253179CCEC52D06.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7I/5ZYB8UJXMKWQQT7AD4S1W7_Auto2.uasset'
+[2023.12.05-19.26.10:708][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DN/ALF164467JS904BMW8OZ8U_Auto2
+[2023.12.05-19.26.10:708][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/ALF164467JS904BMW8OZ8U_Auto21DD152E34B218EAD3AF05DADF54D8121.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DN/ALF164467JS904BMW8OZ8U_Auto2.uasset'
+[2023.12.05-19.26.10:712][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/78/GTOQVMBP5D323ESV97S1EQ_Auto2
+[2023.12.05-19.26.10:712][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/GTOQVMBP5D323ESV97S1EQ_Auto21B04DFAD463E154F3E06B3A4DC4D217F.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/78/GTOQVMBP5D323ESV97S1EQ_Auto2.uasset'
+[2023.12.05-19.26.10:715][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2A/OUU4ALQFK6ZJUW162S99H5_Auto2
+[2023.12.05-19.26.10:715][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OUU4ALQFK6ZJUW162S99H5_Auto2B66A94D34B62DC77F7A2AA8A321CF638.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2A/OUU4ALQFK6ZJUW162S99H5_Auto2.uasset'
+[2023.12.05-19.26.10:719][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XB/X94Z049L1032X9DYRESBVN_Auto2
+[2023.12.05-19.26.10:719][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/X94Z049L1032X9DYRESBVN_Auto2D171723644DE2ADD2E8E2DB87DFCA0DB.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XB/X94Z049L1032X9DYRESBVN_Auto2.uasset'
+[2023.12.05-19.26.10:721][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QR/R99OKNUIIAIYBCLLMCEN6B_Auto2
+[2023.12.05-19.26.10:721][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/R99OKNUIIAIYBCLLMCEN6B_Auto28B1F20CC4C55FAED02ADBFB5046181D2.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QR/R99OKNUIIAIYBCLLMCEN6B_Auto2.uasset'
+[2023.12.05-19.26.10:725][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/29/IUPKGMM13YKSKNS83AWEBQ_Auto2
+[2023.12.05-19.26.10:725][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/IUPKGMM13YKSKNS83AWEBQ_Auto2187E281B42F886B8755A9A93F70475E4.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/29/IUPKGMM13YKSKNS83AWEBQ_Auto2.uasset'
+[2023.12.05-19.26.10:728][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BX/HGRALXR5150X8XG16M1FZ8_Auto2
+[2023.12.05-19.26.10:728][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/HGRALXR5150X8XG16M1FZ8_Auto24F7D96704EE623D932F3C4AF927A9273.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BX/HGRALXR5150X8XG16M1FZ8_Auto2.uasset'
+[2023.12.05-19.26.10:731][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/R0/OTDE3BGX9QFL23PLI63MPD_Auto2
+[2023.12.05-19.26.10:731][829]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OTDE3BGX9QFL23PLI63MPD_Auto2986515914B1A715C17DD37B167B7A482.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/R0/OTDE3BGX9QFL23PLI63MPD_Auto2.uasset'
+[2023.12.05-19.26.10:733][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.096
+[2023.12.05-19.26.10:733][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2023.12.05-19.27.26:266][813]Cmd: TRANSACTION UNDO
+[2023.12.05-19.27.26:267][813]LogEditorTransaction: Undo Move Elements
+[2023.12.05-19.27.26:963][824]Cmd: TRANSACTION UNDO
+[2023.12.05-19.27.26:963][824]LogEditorTransaction: Undo Rotate Elements
+[2023.12.05-19.27.27:862][843]Cmd: TRANSACTION UNDO
+[2023.12.05-19.27.27:862][843]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.05-19.27.28:429][860]Cmd: TRANSACTION UNDO
+[2023.12.05-19.27.28:429][860]LogEditorTransaction: Undo Move Elements
+[2023.12.05-19.27.41:343][249]Cmd: DELETE
+[2023.12.05-19.27.41:343][249]Cmd: ACTOR DELETE
+[2023.12.05-19.27.41:351][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.05-19.27.41:386][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.12.05-19.27.41:387][249]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.12.05-19.27.47:194][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.27.47:194][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.27.47:194][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_41
+[2023.12.05-19.27.49:770][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.27.49:771][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02
+[2023.12.05-19.27.49:774][489]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_02.SM_Book_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E3C201_1145993005
+[2023.12.05-19.27.57:425][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01
+[2023.12.05-19.27.57:425][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01
+[2023.12.05-19.27.57:426][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_42
+[2023.12.05-19.28.00:088][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01
+[2023.12.05-19.28.00:088][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01
+[2023.12.05-19.28.00:092][781]LogActorFactory: Actor Factory spawned StaticMesh /Game/Countryside_Interior/Meshes/SM_Book_01.SM_Book_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E3C201_1156311006
+[2023.12.05-19.28.35:735][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.05-19.28.35:743][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-19.28.35:894][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6
+[2023.12.05-19.28.35:894][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/STZOXX86KQQ3HHM5ZANUQ64AA870514A5C658BDEE781B3BC0C05DD.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/STZOXX86KQQ3HHM5ZANUQ6.uasset'
+[2023.12.05-19.28.35:898][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E0/1XDIIHXKIGTGP6KJS4OL37
+[2023.12.05-19.28.35:898][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/1XDIIHXKIGTGP6KJS4OL375624FF0949619E58735F30B2D6170A94.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E0/1XDIIHXKIGTGP6KJS4OL37.uasset'
+[2023.12.05-19.28.35:900][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZC/VDTKHSH7B5RYH1FQRXGHUM
+[2023.12.05-19.28.35:901][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/VDTKHSH7B5RYH1FQRXGHUMD477F9E74BE6DC06B08831AFA5711E4B.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZC/VDTKHSH7B5RYH1FQRXGHUM.uasset'
+[2023.12.05-19.28.35:904][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z5/HXND3FNI4LLX1NLEFIK9SO
+[2023.12.05-19.28.35:904][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/HXND3FNI4LLX1NLEFIK9SOBFF041544E8DD8ED8323D89A55608F72.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z5/HXND3FNI4LLX1NLEFIK9SO.uasset'
+[2023.12.05-19.28.35:906][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7R/OE0T0Z44U3N45EK71BU5P2
+[2023.12.05-19.28.35:906][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OE0T0Z44U3N45EK71BU5P204C79D0242B8FBACAB8808BDDA53E6DC.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7R/OE0T0Z44U3N45EK71BU5P2.uasset'
+[2023.12.05-19.28.35:909][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/23/EBNIENHL5OFFUB6B79OYDM
+[2023.12.05-19.28.35:909][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/EBNIENHL5OFFUB6B79OYDM9E84CEED4619689A567F5B9057E6FF21.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/23/EBNIENHL5OFFUB6B79OYDM.uasset'
+[2023.12.05-19.28.35:911][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DQ/62UH4PN7GL9Q0YL9BIV9AT
+[2023.12.05-19.28.35:911][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/62UH4PN7GL9Q0YL9BIV9AT8A230791474F8E632B13E9872DCF1EF4.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DQ/62UH4PN7GL9Q0YL9BIV9AT.uasset'
+[2023.12.05-19.28.35:914][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/RUC5HUTQF28GMT6OSZSF9R
+[2023.12.05-19.28.35:914][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/RUC5HUTQF28GMT6OSZSF9RAE6BDB354FCE9FE8D78230B4C4F6A7DF.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/RUC5HUTQF28GMT6OSZSF9R.uasset'
+[2023.12.05-19.28.35:918][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B1/A84FNKVYB4WQ3TDFNYRCJ1
+[2023.12.05-19.28.35:918][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/A84FNKVYB4WQ3TDFNYRCJ1E7F876DC4ECD0074FF09A28D61BD1EA1.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B1/A84FNKVYB4WQ3TDFNYRCJ1.uasset'
+[2023.12.05-19.28.35:921][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AA/LC97P4VHOAC7NLX9FCCYCA
+[2023.12.05-19.28.35:921][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/LC97P4VHOAC7NLX9FCCYCA2BE6481649AD22B6DD793F9EBBC696C9.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AA/LC97P4VHOAC7NLX9FCCYCA.uasset'
+[2023.12.05-19.28.35:923][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QC/956787IYEKH44U6JHHFC52
+[2023.12.05-19.28.35:924][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/956787IYEKH44U6JHHFC52F2A40FCF4BC06F43D1305883EC9F7651.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QC/956787IYEKH44U6JHHFC52.uasset'
+[2023.12.05-19.28.35:926][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7I/5ZYB8UJXMKWQQT7AD4S1W7
+[2023.12.05-19.28.35:926][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/5ZYB8UJXMKWQQT7AD4S1W7F47662834D83BDDBCC3CD9B579269D90.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7I/5ZYB8UJXMKWQQT7AD4S1W7.uasset'
+[2023.12.05-19.28.35:929][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DN/ALF164467JS904BMW8OZ8U
+[2023.12.05-19.28.35:929][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/ALF164467JS904BMW8OZ8U239374DB4A386AD97E102F82A2246DAC.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DN/ALF164467JS904BMW8OZ8U.uasset'
+[2023.12.05-19.28.35:932][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/78/GTOQVMBP5D323ESV97S1EQ
+[2023.12.05-19.28.35:932][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/GTOQVMBP5D323ESV97S1EQ883C29114307AB97D2251A9DE3E093A3.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/78/GTOQVMBP5D323ESV97S1EQ.uasset'
+[2023.12.05-19.28.35:935][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2A/OUU4ALQFK6ZJUW162S99H5
+[2023.12.05-19.28.35:935][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OUU4ALQFK6ZJUW162S99H53972CAC34E6B191085A749A50CDFCEDF.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2A/OUU4ALQFK6ZJUW162S99H5.uasset'
+[2023.12.05-19.28.35:938][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XB/X94Z049L1032X9DYRESBVN
+[2023.12.05-19.28.35:938][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/X94Z049L1032X9DYRESBVNC8E879BE4DA27062C9E15C862B9B04FA.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XB/X94Z049L1032X9DYRESBVN.uasset'
+[2023.12.05-19.28.35:941][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/29/IUPKGMM13YKSKNS83AWEBQ
+[2023.12.05-19.28.35:941][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/IUPKGMM13YKSKNS83AWEBQ32E91298412440475DC41D9F3F58C212.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/29/IUPKGMM13YKSKNS83AWEBQ.uasset'
+[2023.12.05-19.28.35:943][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BX/HGRALXR5150X8XG16M1FZ8
+[2023.12.05-19.28.35:943][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/HGRALXR5150X8XG16M1FZ850B357594AADAF7A62F16F84FF68244B.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BX/HGRALXR5150X8XG16M1FZ8.uasset'
+[2023.12.05-19.28.35:946][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/R0/OTDE3BGX9QFL23PLI63MPD
+[2023.12.05-19.28.35:946][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/OTDE3BGX9QFL23PLI63MPD2620EABC40D9E44D0048AAAAB482BB0A.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/R0/OTDE3BGX9QFL23PLI63MPD.uasset'
+[2023.12.05-19.28.35:948][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/G1/QRPP4YCMFG0AS58PUXBR3D
+[2023.12.05-19.28.35:948][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/QRPP4YCMFG0AS58PUXBR3D5F4F795E479A5F8DCA730C9000C9321B.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/G1/QRPP4YCMFG0AS58PUXBR3D.uasset'
+[2023.12.05-19.28.35:951][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GD/Z3TXV2PME7N4BP1XB0BYO2
+[2023.12.05-19.28.35:951][781]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Z3TXV2PME7N4BP1XB0BYO2564CBE5C409AAB539E109A881E32F4B7.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GD/Z3TXV2PME7N4BP1XB0BYO2.uasset'
+[2023.12.05-19.28.36:040][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms
+[2023.12.05-19.28.36:047][781]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E0C201_1674859447
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1711023811
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1390488799
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1416190800
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1423589801
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1475701802
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1482614803
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1506234804
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1653721808
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1735009812
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1735012813
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1751911814
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1755825815
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1983711823
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E3C201_1156311006
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1850382817
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2079221827
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2029360826
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E3C201_1145993005
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_1884171820
+[2023.12.05-19.28.36:047][781]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A50E2C201_2001102825
