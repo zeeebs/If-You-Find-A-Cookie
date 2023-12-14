@@ -1629,3 +1629,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.14-01.26.10:115][ 79]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A507AC501_1795468678
 [2023.12.14-01.26.10:115][ 79]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A507AC501_1455568672
 [2023.12.14-01.26.10:115][ 79]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E88088498A507AC501_1448600671
+[2023.12.14-01.26.36:110][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
