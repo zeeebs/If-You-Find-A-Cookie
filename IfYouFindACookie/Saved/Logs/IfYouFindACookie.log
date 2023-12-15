@@ -1251,3 +1251,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.15-18.49.38:616][ 56]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.12.15-18.49.40:616][ 62]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.12.15-18.49.42:616][ 68]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.44:618][ 74]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.46:618][ 80]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.48:617][ 86]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.50:618][ 92]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.52:617][ 98]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.15-18.49.54:619][104]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
