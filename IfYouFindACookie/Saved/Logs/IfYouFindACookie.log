@@ -15425,3 +15425,10 @@ Script Stack (1 frames) :
 [2023.12.19-20.54.42:442][ 33]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/WABQQC9C2Q1OV5ICUV8PBE_Auto5932135B7494BE681C150F79B7684C6A5.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L7/WABQQC9C2Q1OV5ICUV8PBE_Auto5.uasset'
 [2023.12.19-20.54.42:444][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
 [2023.12.19-20.54.42:444][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.12.19-20.56.25:376][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.19-20.56.25:378][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-20.56.25:458][525]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L7/WABQQC9C2Q1OV5ICUV8PBE
+[2023.12.19-20.56.25:459][525]LogSavePackage: Moving '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Saved/WABQQC9C2Q1OV5ICUV8PBEDC1A6D1647D43FAF690175A1E9EC00E3.tmp' to '../../../../../../Users/zella/Desktop/Coding Projects/If You Find A Cookie Repo/If-You-Find-A-Cookie/IfYouFindACookie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L7/WABQQC9C2Q1OV5ICUV8PBE.uasset'
+[2023.12.19-20.56.25:474][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.22 sec)
+[2023.12.19-20.56.25:479][525]AssetCheck: New page: Asset Save: BP_CupSpawner_C_UAID_E88088498A5005C601_1976833127
+[2023.12.19-20.56.25:479][525]LogContentValidation: Display: Validating /Game/Collectibles/CollectibleActors/BP_CupSpawner.BP_CupSpawner_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CupSpawner_C_UAID_E88088498A5005C601_1976833127
