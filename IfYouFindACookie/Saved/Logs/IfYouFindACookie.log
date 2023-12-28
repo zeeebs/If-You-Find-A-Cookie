@@ -1454,3 +1454,4 @@ LogInit: Object subsystem initialized
 [2023.12.28-02.47.06:605][252]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.28-02.47.06:652][253]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.28-02.47.10:405][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.12.28-02.49.03:587][158]LogDerivedDataCache: C:/Users/zella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.282 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15108 files in 17608 folders with total size 1299 MiB.
