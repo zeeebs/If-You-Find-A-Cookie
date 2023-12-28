@@ -193,14 +193,6 @@
 			"ChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/LevelInstance.uasset",
-			"ChunkId": "84d056367c44fe5800000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/LevelInstance.ubulk",
-			"ChunkId": "84d056367c44fe5800000002"
-		},
-		{
 			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
 			"ChunkId": "6ed73496191bba2800000001"
 		},
@@ -10013,6 +10005,10 @@
 			"ChunkId": "146cacb33d822f4400000001"
 		},
 		{
+			"Path": "IfYouFindACookie/Content/ThirdPerson/Maps/ThirdPersonMap.ubulk",
+			"ChunkId": "3b83b753e0b0474e00000002"
+		},
+		{
 			"Path": "IfYouFindACookie/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 			"ChunkId": "3b83b753e0b0474e00000001"
 		},
@@ -10852,15 +10848,6 @@
 			"Name": "/Engine/EditorResources/EmptyActor",
 			"ExportBundleChunkIds": [
 				"cb90c94586b3228900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/LevelInstance",
-			"ExportBundleChunkIds": [
-				"84d056367c44fe5800000001"
-			],
-			"BulkDataChunkIds": [
-				"84d056367c44fe5800000002"
 			]
 		},
 		{
@@ -11867,6 +11854,36 @@
 			"ExportBundleChunkIds": [
 				"b0afffa81f17b5cc00000001"
 			]
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/5/I3/6C54YP6I2JD7E5D6SOKC88"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/5P/L98SF33VG2RGA84O3NOCZC"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/HF/EN4DSS8X6WZ0BH589WQNZC"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/LU/1HV8E0ZCA9AOXI70E4SN4V"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/Q2/ROAF1PQJ8AMWR30NH3KRC5"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/Q8/BI7IZ92PE0OJKX2H8HYD13"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/B0/84TBLLTWG67KQFJX2GFGJE"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/PY/B537S03ZF0JID11H3RUMM9"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/QZ/VH3929Q1J3F2R251RKQBOG"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/KZ/HBSNXSZ2CD93MSYAXLMYXR"
 		},
 		{
 			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L"
@@ -21931,6 +21948,9 @@
 			"Name": "/Game/ThirdPerson/Maps/ThirdPersonMap",
 			"ExportBundleChunkIds": [
 				"3b83b753e0b0474e00000001"
+			],
+			"BulkDataChunkIds": [
+				"3b83b753e0b0474e00000002"
 			]
 		},
 		{
