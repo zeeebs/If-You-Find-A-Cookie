@@ -193,10 +193,6 @@
 			"ChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
-			"ChunkId": "6ed73496191bba2800000001"
-		},
-		{
 			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
 			"ChunkId": "bd472f8cbf5f723d00000001"
 		},
@@ -613,10 +609,6 @@
 			"ChunkId": "a78221ddf916516d00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
-			"ChunkId": "e61c20398c40eda200000001"
-		},
-		{
 			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
 			"ChunkId": "6098725f85292e1b00000001"
 		},
@@ -823,14 +815,6 @@
 		{
 			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
 			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uasset",
-			"ChunkId": "c7b654a9cce24cef00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Templates/HLODs/HLODLayer_Merged.uasset",
-			"ChunkId": "f8e206283906657a00000001"
 		},
 		{
 			"Path": "Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
@@ -2639,6 +2623,10 @@
 		{
 			"Path": "IfYouFindACookie/Content/Countryside_Interior/Levels/Interior_Scene_BuiltData.uasset",
 			"ChunkId": "9d62d1b7ca118ccc00000001"
+		},
+		{
+			"Path": "IfYouFindACookie/Content/Countryside_Interior/Levels/Interior_Scene_BuiltData.ubulk",
+			"ChunkId": "9d62d1b7ca118ccc00000002"
 		},
 		{
 			"Path": "IfYouFindACookie/Content/Countryside_Interior/Materials/MI_Baseboard.uasset",
@@ -9857,6 +9845,10 @@
 			"ChunkId": "406795abf147385100000001"
 		},
 		{
+			"Path": "IfYouFindACookie/Content/MapMainMenu_BuiltData.uasset",
+			"ChunkId": "46bf68ef9a84674a00000001"
+		},
+		{
 			"Path": "IfYouFindACookie/Content/Mouse/Animations/Anim_Mouse_Idle.uasset",
 			"ChunkId": "fb34292d4527a49b00000001"
 		},
@@ -10003,14 +9995,6 @@
 		{
 			"Path": "IfYouFindACookie/Content/ThirdPerson/Input/IMC_Default.uasset",
 			"ChunkId": "146cacb33d822f4400000001"
-		},
-		{
-			"Path": "IfYouFindACookie/Content/ThirdPerson/Maps/ThirdPersonMap.ubulk",
-			"ChunkId": "3b83b753e0b0474e00000002"
-		},
-		{
-			"Path": "IfYouFindACookie/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-			"ChunkId": "3b83b753e0b0474e00000001"
 		},
 		{
 			"Path": "IfYouFindACookie/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
@@ -10851,12 +10835,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
-			"ExportBundleChunkIds": [
-				"6ed73496191bba2800000001"
-			]
-		},
-		{
 			"Name": "/Engine/EditorResources/S_Actor",
 			"ExportBundleChunkIds": [
 				"bd472f8cbf5f723d00000001"
@@ -11448,12 +11426,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
-			"ExportBundleChunkIds": [
-				"e61c20398c40eda200000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
 			"ExportBundleChunkIds": [
 				"6098725f85292e1b00000001"
@@ -11748,18 +11720,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/Maps/Templates/HLODs/HLODLayer_Instanced",
-			"ExportBundleChunkIds": [
-				"c7b654a9cce24cef00000001"
-			]
-		},
-		{
-			"Name": "/Engine/Maps/Templates/HLODs/HLODLayer_Merged",
-			"ExportBundleChunkIds": [
-				"f8e206283906657a00000001"
-			]
-		},
-		{
 			"Name": "/Engine/MapTemplates/SM_Template_Map_Floor",
 			"ExportBundleChunkIds": [
 				"15d0ea2c4d43c43c00000001"
@@ -11856,10 +11816,115 @@
 			]
 		},
 		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/0/T8/9ONL3KXKBTF7UNY60910AW"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/1/DL/RM7TP62RNEFBGUX3AG5QAE"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/1/OW/E2PKLRJGWPDSKY4IE7MMLE"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/1/UK/CQ76O5127RXCSAR606DCWV"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/1/WY/GAPOGFTZLCH58UU7TV9ZFI"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/2/59/JY3GIQB2RI6DPQ8HUKZ1BA"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/2/KK/NUB1SOMS55SN2JVYBHYPA1"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/2/N3/TSQ4CK0NUQUCDWE5E8XTAT"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/3/72/61KUXL2U5S576Q2QJC7TJX"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/3/L1/B9VSX0X4YRJUW3XD2X7WS5"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/3/UH/EPRIRBMHKU5R76KGRBEOW7"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/0L/8V12FXW31QSSLJMGWIQIBP"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/7G/HJNN207MAKKUTIYXJYWDWJ"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/9D/ROBUWC6IKW2NA1D0KXP3H0"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/9K/COH81TR1ITT7TYMZO8TBHQ"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/C7/V05323XWG6I5GI4TDEDFK1"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/NW/ZIXDZTUFJVR32NBXAG0ASG"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/QD/OD6082ERJDT98C9NYX0Y2U"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/4/VV/EG48QTKYUPPE08J8QZ84F9"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/5/CJ/JMET6IVWNVZHXY2SM43N3O"
+		},
+		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/5/I3/6C54YP6I2JD7E5D6SOKC88"
 		},
 		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/5/IV/8HPGVF3129BITAV80SM805"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/5/O9/A0CDDB8RSAQX8CQXRI6KTU"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/6/MK/C2VX2VU0PBWZ1H6QJFHMWO"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/6/YZ/V3TC7JKCISISFG8K6M4OU7"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/7/5T/GKDHUNHXB2ILNDNZBM7IFD"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/7/KN/8ZY2FA6RJJ6PVKK41HVM2M"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/7/TB/BCJZWEC80QPS3B0BDT2GVB"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/7/US/O3K6ZVH9NRIGADDFF528LR"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/0T/K3W6FR8O42LINT1UO9ORMR"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/1Y/OLAJ24IFH8S5KDU2XDKLDY"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/3L/R9V2Z4731BMZ5KIJDLH34Y"
+		},
+		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/5P/L98SF33VG2RGA84O3NOCZC"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/82/QI2TRL46FHWZ5P7JZBIYUE"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/9A/A07LGMHZ2S5B4ST8URYCHG"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/9T/O2A905S0B5GD95Q9GUB3E6"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/ET/42OXX98ZO0RBWCXX1N05T2"
 		},
 		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/HF/EN4DSS8X6WZ0BH589WQNZC"
@@ -11874,40 +11939,109 @@
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/Q8/BI7IZ92PE0OJKX2H8HYD13"
 		},
 		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/SL/3Q039EC1UQNSNKGJTXEN8O"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/8/XP/0UJAOMV6MF2FDRWF1LD3X6"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/9/53/4C43KPB50302O436CFTMME"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/9/8X/CQNVCZD62NRCSP5ODM5GFI"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/9/BL/FBJNJBX1HXJ3QAAY49LZGI"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/9/TQ/3JTIHIQBRH9ENV8T3IYZK2"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/9O/XCB1XKPX3HZTQXSH6MJ9UX"
+		},
+		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/B0/84TBLLTWG67KQFJX2GFGJE"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/IS/16056D9YTBK3J4LE9NP6AN"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/O6/NTUSQ20WEMW7ZXG59IN0OB"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/A/VG/CAC6J3D4NGHFXQO1GZDOOV"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/0X/XTV2GM1L1RRMDW1IMFRGQN"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/6B/HM7WUM034HH1XT3JAL21OS"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/GN/6GRFCR0JSC70YJL8ZDWGIU"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/HF/2DPC9B9PS0CYQFDRL4DVLF"
 		},
 		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/PY/B537S03ZF0JID11H3RUMM9"
 		},
 		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/B/T6/6SQS1202SYTIYIMXOVJWSL"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/70/QN70S7EUDEYAJ8W3O9IIZC"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/E2/91WZCJDER3RF90D0SO375J"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/GL/UKKE22WMOP3YOU3BF37I6S"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/OW/6IIW1IZ96J9I9LCFQ8SAMS"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/P1/ZEGJ0RY1IT9CC16S9CG6BW"
+		},
+		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/C/QZ/VH3929Q1J3F2R251RKQBOG"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/D/AW/3JU70XXS42EWSABG5NBO0J"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/D/L4/FVS57D4VWJTQY5X2GTOZWZ"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/D/T9/6KBFZ0IER8DD2Z41IKH2M1"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/D/YN/I9K1KS64SDYWG8A58JJ9AN"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/DU/43YNHDQTGPPA4LZSJG6OR4"
+		},
+		{
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/GP/3Y3QX72N9ZXWNCARW0AU1H"
 		},
 		{
 			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/KZ/HBSNXSZ2CD93MSYAXLMYXR"
 		},
 		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L"
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/QX/GVITWVWU5FLH6WYQ18NUOO"
 		},
 		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR"
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/UH/4BMPNQARPSEKP5HS3MTLHC"
 		},
 		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A"
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/XE/E57B7DLKZJOSNPJYVUHHX6"
 		},
 		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/44/5G5WCDIF9LT28SQXOIFT8B"
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/E/ZQ/RY8G52H7OP93IQCOBZCQ79"
 		},
 		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J"
-		},
-		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/B/ZG/1QKE1VOHC6QS9JKAURT15L"
-		},
-		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM"
-		},
-		{
-			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC"
+			"Name": "/Game/__ExternalObjects__/Countryside_Interior/Levels/Interior_Scene/F/2O/A7GFQCH7CYYOSVV6DWEBWJ"
 		},
 		{
 			"Name": "/Game/Characters/Mannequin_UE4/Animations/Jog_Fwd",
@@ -13278,6 +13412,9 @@
 			"Name": "/Game/Countryside_Interior/Levels/Interior_Scene_BuiltData",
 			"ExportBundleChunkIds": [
 				"9d62d1b7ca118ccc00000001"
+			],
+			"BulkDataChunkIds": [
+				"9d62d1b7ca118ccc00000002"
 			]
 		},
 		{
@@ -21744,6 +21881,12 @@
 			]
 		},
 		{
+			"Name": "/Game/MapMainMenu_BuiltData",
+			"ExportBundleChunkIds": [
+				"46bf68ef9a84674a00000001"
+			]
+		},
+		{
 			"Name": "/Game/Mouse/Animations/Anim_Mouse_Idle",
 			"ExportBundleChunkIds": [
 				"fb34292d4527a49b00000001"
@@ -21942,15 +22085,6 @@
 			"Name": "/Game/ThirdPerson/Input/IMC_Default",
 			"ExportBundleChunkIds": [
 				"146cacb33d822f4400000001"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/ThirdPersonMap",
-			"ExportBundleChunkIds": [
-				"3b83b753e0b0474e00000001"
-			],
-			"BulkDataChunkIds": [
-				"3b83b753e0b0474e00000002"
 			]
 		},
 		{
