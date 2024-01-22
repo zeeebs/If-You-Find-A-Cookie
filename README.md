@@ -27,7 +27,7 @@ Below are descriptions of the features I made for my game, along with images of 
 <ul>
 <li><a href="#MainMenu">Main Menu</a></li>
 <li><a href="#CollectibleSpawner">Collectible Spawner</a></li>
- <li><a href="#CollectionSystem">CollectionSystem</a></li>
+ <li><a href="#CollectionSystem">Collection System</a></li>
 <li><a href="#EndGame">End Game</a></li>
 <li><a href="#Other Skills">Other Skills</a></li>
 <li><a href="#Images">Images</a></li>
@@ -40,19 +40,27 @@ Below are descriptions of the features I made for my game, along with images of 
 
 <h4>Main Menu</h4>Main Menu
 
-![Main Menu](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/Menu%20Page.png)
+![Main Menu](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/MainMenu.png)
+
+<h4>Main Menu BP</h4>
+
+![Main Menu Widget BP](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Main%20Menu%20BP.png)
 
 <h4>Main Menu WB</h4>
 
-![Main Menu Widget BP](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/WB%20Main%20Menu.png)
+![Main Menu Widget WP](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Main%20Menu%20WB.png)
 
 <h4>Instructions Page</h4>
 
-![Instructions Page](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/Instructions%20Page.png)
+![Instructions Page](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Instructions.png)
+
+<h4>Instructions BP</h4>
+
+![Instructions BP](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Instructions%20Page%20BP.png)
 
 <h4>Instructions WB</h4>
 
-![Instructions WB](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/WB%20Instructions.png)
+![Instructions WB](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Instructions%20Page%20WB.png)
 
 </p>
 <p id="NPCs">
