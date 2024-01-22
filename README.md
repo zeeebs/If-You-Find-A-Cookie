@@ -63,42 +63,53 @@ Below are descriptions of the features I made for my game, along with images of 
 ![Instructions WB](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Instructions%20Page%20WB.png)
 
 </p>
-<p id="NPCs">
-<h3>Alien NPCs</h3>
+<p id="CollectibleSpawner">
+<h3>Collectible Spawner</h3>
 
-<h4>NPC Roaming BP</h4>
+The items are randomly spawned between 3 set locations, allowing for replay of the game.
 
-![NPC Roaming BP](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/BP%20NPC%20Roaming.png)
+<h4>Collectible Spawner BP</h4>
 
-<h4>NPC Dialogue BP</h4>
+![Collectible Spawner BP](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Collectible%20Spawner.png)
+</p>
 
-![NPC Dialogue BP](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/BP%20NPC%20Dialogue.png)
+<p id="CollectibleSystem">
+<h3>Collectible System</h3>
 
-<h4>NPC Interaction with Player</h4>
+When an item is collected, the HUD updates with the amount you have found out of the total 5. A sound is played to also indicate that you have picked it up.
+ 
+<h4>Collectible HUD BP</h4>
 
-![NPC Interaction with Player](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/NPC%20Interaction.png)
+![Collectible HUD BP](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Collectible%20HUD%20BP.png)
+
+<h4>Collectible HUD WB</h4>
+
+![Collectible HUD WB](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/Collectible%20HUD%20WB.png)
+
+<h4>ThirdPerson BP Collectible Audio</h4>
+
+![ThirdPerson BP Collectible Audio](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/ThirdPerson%20BP%20Collectible%20Sound.png)
 
 </p>
 <p id="EndGame">
 <h3>End Game</h3>
-When the player reaches the stairs at the end of the maze, the end of the game is triggered.
+Once all 5 items are collected, the game is over.
+<h4>End Game</h4>
 
-<h4>Eng Game</h4>
+![End Game](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/EndGame.png)
 
-![End Game](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/End%20Page.png)
+<h4>End Game WB</h4>
 
-<h4>End Game BP</h4>
-
-![End Game BP](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/BP%20End%20Game.png)
+![End Game WB](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/End%20Game%20WB.png)
 
 
 </p>
 <p id="Other Skills">
 <h3>Other Skills</h3>
 <ul>
-<li>I got to create my own font for this game which was super fun and different.</li>
-<li>I figured out how to have the mouse cursor be visible or not, which I struggled with on previous projects.</li>
-<li>I became more knowledgeable and comfortable using git-lfs and gitbash.</li>
+<li>This was my first time using assets from the UE Marketplace on my own. It was a very valuable experience.</li>
+<li>I struggled to get the glowing right on the items. I wanted them to stand out enough to be easily identifiable as the collectible items, but not too bright that you could not see it or it gave away the spot. Some items are better than others. The cookie in particular I could not get correct.</li>
+<li>This was my first time using Scene Roots, I enjoyed learning about how to mark locations for "random" spawning.</li>
 </ul>
 
 </p>
@@ -107,8 +118,10 @@ When the player reaches the stairs at the end of the maze, the end of the game i
 
 Lastly, here are some images from the final product.
 
-![Game Image](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/Interior1.png)
-![Game Image](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/Entire%20Map.png)
-![Game Image](https://github.com/zeeebs/LabyrinthOfHawara/blob/main/ReadMe%20Images/alientfont.png)
+![Game Image](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/GamePlay1.png)
+![Game Image](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/GamePlay2.png)
+![Game Image](https://github.com/zeeebs/If-You-Find-A-Cookie/blob/main/IfYouFindACookie/ReadMe/GamePlay3.png)
 
-<h4><a href="#MainMenu">Main Menu</a>, <a href="#NPCs">Alien NPCs</a>, <a href="#EndGame">End Game</a>, <a href="#Other Skills">Other Skills</a>, <a href="#Images">Images</a>, <a href="#Page Top">Page Top</a></h4>
+
+
+<h4><a href="#MainMenu">Main Menu</a>, <a href="#CollectibleSpawner">Collectible Spawner</a>, <a href="#CollectionSystem">Collection System</a>, <a href="#EndGame">End Game</a>, <a href="#Other Skills">Other Skills</a>, <a href="#Images">Images</a>, <a href="#Page Top">Page Top</a></h4>
